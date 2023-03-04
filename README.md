@@ -1,6 +1,11 @@
-# BeautyBook
-1ra Diapositiva: Inicio de la App.
-2da diapositiva: Introduccion de servicios antes del registro (aparece la primera vez).
+#Idea de  Proyecto
+Mi idea de proyecto  es iuna aplicacion para un SPA  de belleza, aplicacion similar Agenda Pro
+
+#Funcionalidad de aplicacion
+Esta aplicacion sirve para realizar control de ingresos de servis, gastos de insumos ,  manejo de agenda , directorio de usuarioa  con informacion personal, y opcion de agregr nuevos usuario.
+
+#MockUp de  Aplicacion
+2da diapositiva: Introduccion de servicios antes del registro (aparece la primera vez)
 3ra diapositiva: Introduccion de servicios antes del registro (aparece la primera vez).
 4ta diapositiva: Introduccion de servicios antes del registro (aparece la primera vez).
 5ta diapositiva: Bienvenida y login, olvido de contraseña y opcion de registro.
@@ -19,4 +24,5 @@
 19va diapositiva: Vista de agragar desplegada.
 20va diapositiva: Vista para agregar un ingreso.
 21va diapositiva: Vista de aplicación bloqueada o al cierre.
+
 https://www.canva.com/design/DAFcHC4TDWE/-Hyh9aC6ZCaVDrWSHZlPEw/edit?utm_content=DAFcHC4TDWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
